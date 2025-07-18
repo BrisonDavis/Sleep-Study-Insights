@@ -1,0 +1,101 @@
+StudyID,TechName,PatientName,PatientAge,StartTime,EndTime,DurationHours,DisorderType,MachineUsed,Passed
+1,Brison,Danielle,37,2024-07-22 22:00:00,2024-07-23 05:00:00,7.0,Rem Disorder,F&P Icon,False
+2,Jordan,Angel,45,2024-07-24 22:00:00,2024-07-25 04:00:00,6.0,Restless Legs,Resmed S10,False
+3,Emily,Joshua,34,2024-07-08 20:00:00,2024-07-09 05:00:00,9.0,Insomnia,Resmed S10,True
+4,Darius,Jeffrey,65,2024-07-18 21:00:00,2024-07-19 02:00:00,5.0,Insomnia,Dreamstation,False
+5,Lisa,Jill,64,2024-07-19 22:00:00,2024-07-20 02:00:00,4.0,Insomnia,Resmed S10,True
+6,Brison,Erica,41,2024-07-06 22:00:00,2024-07-07 02:00:00,4.0,Rem Disorder,Philips A40,False
+7,Jordan,Patricia,20,2024-07-02 22:00:00,2024-07-03 07:00:00,9.0,Insomnia,Dreamstation,True
+8,Emily,Christopher,73,2024-07-01 22:00:00,2024-07-02 05:00:00,7.0,Restless Legs,Dreamstation,False
+9,Darius,Robert,29,2024-07-31 20:00:00,2024-08-01 02:00:00,6.0,Restless Legs,Resmed S9,True
+10,Lisa,Anthony,43,2024-07-16 20:00:00,2024-07-17 04:00:00,8.0,Apnea,Philips A40,True
+11,Brison,Jeffery,69,2024-07-19 22:00:00,2024-07-20 02:00:00,4.0,Insomnia,Resmed S9,False
+12,Jordan,William,56,2024-07-20 21:00:00,2024-07-21 05:00:00,8.0,Restless Legs,Dreamstation,False
+13,Emily,Anthony,37,2024-07-28 23:00:00,2024-07-29 05:00:00,6.0,Rem Disorder,F&P Icon,True
+14,Darius,James,57,2024-07-31 20:00:00,2024-08-01 01:00:00,5.0,Insomnia,Resmed S10,True
+15,Lisa,Debra,28,2024-07-08 21:00:00,2024-07-09 05:00:00,8.0,Apnea,Philips A40,True
+16,Brison,Amy,44,2024-07-15 23:00:00,2024-07-16 05:00:00,6.0,Apnea,Philips A40,False
+17,Jordan,Jeffrey,63,2024-07-10 23:00:00,2024-07-11 03:00:00,4.0,Insomnia,Resmed S10,True
+18,Emily,Bridget,45,2024-07-04 21:00:00,2024-07-05 06:00:00,9.0,Insomnia,Resmed S10,True
+19,Darius,Lisa,22,2024-07-02 21:00:00,2024-07-03 03:00:00,6.0,Rem Disorder,F&P Icon,False
+20,Lisa,Adam,46,2024-07-04 23:00:00,2024-07-05 08:00:00,9.0,Narcolepsy,Dreamstation,False
+21,Brison,Linda,50,2024-07-18 23:00:00,2024-07-19 06:00:00,7.0,Apnea,F&P Icon,True
+22,Jordan,Helen,74,2024-07-14 22:00:00,2024-07-15 06:00:00,8.0,Narcolepsy,Resmed S9,True
+23,Emily,Matthew,32,2024-07-31 20:00:00,2024-08-01 05:00:00,9.0,Narcolepsy,F&P Icon,True
+24,Darius,Eric,66,2024-07-25 21:00:00,2024-07-26 04:00:00,7.0,Rem Disorder,Dreamstation,False
+25,Lisa,Susan,29,2024-07-19 23:00:00,2024-07-20 08:00:00,9.0,Restless Legs,Resmed S9,False
+26,Brison,Matthew,40,2024-07-14 22:00:00,2024-07-15 04:00:00,6.0,Apnea,Philips A40,False
+27,Jordan,Christopher,44,2024-07-23 23:00:00,2024-07-24 05:00:00,6.0,Restless Legs,F&P Icon,True
+28,Emily,Colin,47,2024-07-03 22:00:00,2024-07-04 04:00:00,6.0,Narcolepsy,Resmed S9,False
+29,Darius,Melanie,73,2024-07-17 20:00:00,2024-07-18 05:00:00,9.0,Rem Disorder,Dreamstation,False
+30,Lisa,Cassandra,21,2024-07-07 22:00:00,2024-07-08 06:00:00,8.0,Restless Legs,Dreamstation,True
+31,Brison,Lindsay,31,2024-07-09 21:00:00,2024-07-10 03:00:00,6.0,Restless Legs,Dreamstation,True
+32,Jordan,Jessica,19,2024-07-21 21:00:00,2024-07-22 06:00:00,9.0,Insomnia,Resmed S10,True
+33,Emily,Amanda,53,2024-07-14 20:00:00,2024-07-15 01:00:00,5.0,Apnea,Dreamstation,True
+34,Darius,Teresa,59,2024-07-27 21:00:00,2024-07-28 04:00:00,7.0,Narcolepsy,F&P Icon,False
+35,Lisa,Nicholas,44,2024-07-27 23:00:00,2024-07-28 06:00:00,7.0,Insomnia,Dreamstation,True
+36,Brison,Andrea,42,2024-07-07 21:00:00,2024-07-08 01:00:00,4.0,Narcolepsy,Dreamstation,False
+37,Jordan,Maria,77,2024-07-26 22:00:00,2024-07-27 02:00:00,4.0,Narcolepsy,Resmed S10,False
+38,Emily,Christine,73,2024-07-05 23:00:00,2024-07-06 07:00:00,8.0,Restless Legs,Resmed S10,False
+39,Darius,Michelle,53,2024-07-25 23:00:00,2024-07-26 06:00:00,7.0,Narcolepsy,Philips A40,True
+40,Lisa,Barbara,54,2024-07-13 21:00:00,2024-07-14 04:00:00,7.0,Apnea,Resmed S10,False
+41,Brison,Janet,63,2024-07-30 23:00:00,2024-07-31 06:00:00,7.0,Insomnia,Dreamstation,True
+42,Jordan,Brandon,26,2024-07-17 22:00:00,2024-07-18 02:00:00,4.0,Restless Legs,Resmed S9,False
+43,Emily,Jeremy,18,2024-07-24 21:00:00,2024-07-25 04:00:00,7.0,Insomnia,Resmed S9,False
+44,Darius,Keith,68,2024-07-09 22:00:00,2024-07-10 06:00:00,8.0,Restless Legs,Resmed S9,False
+45,Lisa,Christopher,72,2024-07-22 23:00:00,2024-07-23 05:00:00,6.0,Restless Legs,F&P Icon,True
+46,Brison,Jesse,57,2024-07-03 21:00:00,2024-07-04 06:00:00,9.0,Narcolepsy,Philips A40,True
+47,Jordan,Craig,45,2024-07-04 20:00:00,2024-07-05 03:00:00,7.0,Insomnia,Resmed S10,True
+48,Emily,Joshua,20,2024-07-11 20:00:00,2024-07-12 02:00:00,6.0,Narcolepsy,Resmed S10,False
+49,Darius,Cynthia,27,2024-07-08 23:00:00,2024-07-09 07:00:00,8.0,Insomnia,Philips A40,True
+50,Lisa,Michael,23,2024-07-20 23:00:00,2024-07-21 07:00:00,8.0,Insomnia,Dreamstation,True
+51,Brison,Mitchell,32,2024-07-15 22:00:00,2024-07-16 05:00:00,7.0,Narcolepsy,Resmed S9,False
+52,Jordan,Jason,75,2024-07-10 21:00:00,2024-07-11 01:00:00,4.0,Restless Legs,Resmed S10,False
+53,Emily,Joseph,58,2024-07-31 23:00:00,2024-08-01 08:00:00,9.0,Narcolepsy,Dreamstation,False
+54,Darius,Sharon,30,2024-07-13 23:00:00,2024-07-14 03:00:00,4.0,Insomnia,Dreamstation,False
+55,Lisa,Deborah,54,2024-07-10 22:00:00,2024-07-11 02:00:00,4.0,Restless Legs,Resmed S10,True
+56,Brison,Chelsea,54,2024-07-28 20:00:00,2024-07-29 04:00:00,8.0,Restless Legs,Resmed S10,True
+57,Jordan,George,56,2024-07-26 22:00:00,2024-07-27 03:00:00,5.0,Insomnia,F&P Icon,False
+58,Emily,Jessica,61,2024-07-25 21:00:00,2024-07-26 06:00:00,9.0,Apnea,Resmed S9,False
+59,Darius,Frank,68,2024-07-15 20:00:00,2024-07-16 04:00:00,8.0,Narcolepsy,Philips A40,True
+60,Lisa,Noah,76,2024-07-10 22:00:00,2024-07-11 07:00:00,9.0,Restless Legs,Philips A40,True
+61,Brison,Veronica,26,2024-07-26 22:00:00,2024-07-27 06:00:00,8.0,Rem Disorder,Resmed S10,True
+62,Jordan,Danielle,34,2024-07-30 23:00:00,2024-07-31 05:00:00,6.0,Narcolepsy,Resmed S9,False
+63,Emily,Angela,79,2024-07-03 21:00:00,2024-07-04 02:00:00,5.0,Restless Legs,F&P Icon,False
+64,Darius,Gabrielle,23,2024-07-26 23:00:00,2024-07-27 03:00:00,4.0,Narcolepsy,F&P Icon,True
+65,Lisa,Megan,47,2024-07-12 22:00:00,2024-07-13 06:00:00,8.0,Restless Legs,Resmed S10,True
+66,Brison,Kimberly,61,2024-07-08 23:00:00,2024-07-09 03:00:00,4.0,Rem Disorder,F&P Icon,False
+67,Jordan,Jeremy,76,2024-07-20 21:00:00,2024-07-21 06:00:00,9.0,Apnea,Dreamstation,False
+68,Emily,Antonio,59,2024-07-14 20:00:00,2024-07-15 01:00:00,5.0,Apnea,Resmed S9,False
+69,Darius,Leslie,49,2024-07-04 20:00:00,2024-07-05 01:00:00,5.0,Rem Disorder,Philips A40,False
+70,Lisa,Joseph,47,2024-07-12 23:00:00,2024-07-13 07:00:00,8.0,Insomnia,Dreamstation,True
+71,Brison,Jason,71,2024-07-16 23:00:00,2024-07-17 05:00:00,6.0,Apnea,Resmed S10,True
+72,Jordan,Sherri,46,2024-07-15 21:00:00,2024-07-16 03:00:00,6.0,Apnea,Resmed S10,False
+73,Emily,Nancy,21,2024-07-13 22:00:00,2024-07-14 03:00:00,5.0,Apnea,Dreamstation,True
+74,Darius,Leonard,60,2024-07-07 20:00:00,2024-07-08 00:00:00,4.0,Narcolepsy,Philips A40,True
+75,Lisa,Diana,68,2024-07-19 21:00:00,2024-07-20 01:00:00,4.0,Rem Disorder,Philips A40,True
+76,Brison,Randall,70,2024-07-28 21:00:00,2024-07-29 03:00:00,6.0,Insomnia,F&P Icon,True
+77,Jordan,Robin,35,2024-07-28 21:00:00,2024-07-29 02:00:00,5.0,Rem Disorder,Resmed S10,True
+78,Emily,Stephen,25,2024-07-22 20:00:00,2024-07-23 01:00:00,5.0,Apnea,Resmed S10,True
+79,Darius,Joseph,55,2024-07-11 20:00:00,2024-07-12 01:00:00,5.0,Narcolepsy,Resmed S9,True
+80,Lisa,John,65,2024-07-14 20:00:00,2024-07-15 05:00:00,9.0,Apnea,Dreamstation,False
+81,Brison,Anna,67,2024-07-12 20:00:00,2024-07-13 03:00:00,7.0,Rem Disorder,Philips A40,True
+82,Jordan,Jose,64,2024-07-26 22:00:00,2024-07-27 05:00:00,7.0,Apnea,Resmed S9,False
+83,Emily,Brenda,72,2024-07-13 23:00:00,2024-07-14 08:00:00,9.0,Apnea,Dreamstation,False
+84,Darius,Rachael,22,2024-07-29 20:00:00,2024-07-30 02:00:00,6.0,Rem Disorder,Philips A40,True
+85,Lisa,Reginald,26,2024-07-09 22:00:00,2024-07-10 05:00:00,7.0,Rem Disorder,F&P Icon,False
+86,Brison,Jeffrey,47,2024-07-17 23:00:00,2024-07-18 03:00:00,4.0,Apnea,F&P Icon,True
+87,Jordan,Whitney,45,2024-07-15 21:00:00,2024-07-16 04:00:00,7.0,Narcolepsy,Dreamstation,False
+88,Emily,William,44,2024-07-24 20:00:00,2024-07-25 02:00:00,6.0,Restless Legs,Resmed S10,False
+89,Darius,Christopher,41,2024-07-31 21:00:00,2024-08-01 06:00:00,9.0,Restless Legs,Resmed S9,True
+90,Lisa,Brandon,71,2024-07-03 20:00:00,2024-07-04 03:00:00,7.0,Apnea,Resmed S10,True
+91,Brison,Daniel,53,2024-07-02 22:00:00,2024-07-03 07:00:00,9.0,Apnea,Dreamstation,False
+92,Jordan,Courtney,73,2024-07-22 23:00:00,2024-07-23 08:00:00,9.0,Apnea,Resmed S10,False
+93,Emily,Laura,40,2024-07-04 21:00:00,2024-07-05 02:00:00,5.0,Restless Legs,Philips A40,True
+94,Darius,Robert,40,2024-07-28 22:00:00,2024-07-29 02:00:00,4.0,Narcolepsy,F&P Icon,True
+95,Lisa,Bryan,69,2024-07-14 20:00:00,2024-07-15 04:00:00,8.0,Narcolepsy,Resmed S9,True
+96,Brison,Patrick,35,2024-07-23 22:00:00,2024-07-24 04:00:00,6.0,Narcolepsy,Resmed S9,True
+97,Jordan,Wendy,73,2024-07-05 23:00:00,2024-07-06 03:00:00,4.0,Insomnia,Resmed S9,True
+98,Emily,Allison,65,2024-07-17 21:00:00,2024-07-18 04:00:00,7.0,Restless Legs,Dreamstation,False
+99,Darius,Tasha,28,2024-07-12 22:00:00,2024-07-13 07:00:00,9.0,Narcolepsy,F&P Icon,True
+100,Lisa,Michelle,74,2024-07-02 21:00:00,2024-07-03 02:00:00,5.0,Rem Disorder,Resmed S9,True
