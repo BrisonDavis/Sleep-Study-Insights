@@ -15,6 +15,18 @@ This project analyzes sleep lab data using Python in an Azure Machine Learning e
 - Creating visualizations with 'matplotlib'
 - Communicating insights clearly
 
+##  Dataset Information
+
+This dataset was manually created using realistic values based on actual sleep lab operations. It includes fields such as:
+
+- 'TechName – Technician names  
+- 'DisorderType' – Type of disorder being studied  
+- 'StartTime' and 'EndTime' – Study duration timestamps  
+- 'MachineUsed' – Equipment used for the study  
+- 'Passed' – Whether the study met defined success criteria  
+
+The structure and contents are designed to simulate a real-world healthcare environment based on the author’s experience as a registered polysomnographic technologist (RPSGT). This enables the project to reflect practical workflows and challenges encountered in sleep study labs — such as technician performance, study volume by disorder, and machine impact on duration.
+
 ## Insights Included
 1. Average duration by disorder type
 2. Average duration by technician
